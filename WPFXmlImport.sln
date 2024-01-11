@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFXmlImport", "WPFXmlImport\WPFXmlImport.csproj", "{7BEEBFB2-DEA6-4061-A936-ECFEFEBB04BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BEEBFB2-DEA6-4061-A936-ECFEFEBB04BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BEEBFB2-DEA6-4061-A936-ECFEFEBB04BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BEEBFB2-DEA6-4061-A936-ECFEFEBB04BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BEEBFB2-DEA6-4061-A936-ECFEFEBB04BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {827993C8-8B0A-432B-AA78-E706890E1A44}
+	EndGlobalSection
+EndGlobal
